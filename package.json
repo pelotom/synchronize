@@ -7,8 +7,8 @@
     "type": "git",
     "url": "https://github.com/alexeypetrushin/synchronize.git"
   },
-  "dependencies": {
-    "fibers": "2.0.x"
+  "peerDependencies": {
+    "fibers": "*"
   },
   "devDependencies": {
     "mocha": "1.0.x",
